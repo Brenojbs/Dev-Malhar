@@ -1,4 +1,20 @@
 # Olá, Mundo!
- Teste em aula.
+---
+ ## Reflexão Fisiculturismo no TI.
+---
+     No mundo em que vivemos a aparencia é uma das primeiras coisas a serem notadas e uma das mais importante, eu diria até que a mais importante para algumas instituições.
+     Temos grandiosos representantes da capacidade humana em desenvolvimento de software. __Mas eu ainda queria ir além.__ 
 
- Primeiro repositório do curso de GIT e GITHUB. Estou aprendendo, no meu tempo.
+  ### Fisiculturismo
+    Pensemos então sobre a junção da Musculação com a area de TI.
+    Nos teriamos um avanço substancial em nossas carreiras e vidas pessoais. Pois temos provas de que esse esporte nos trás beneficios:
+    1.Saúde
+       *Mental
+       *Fisica
+    2.Longevidade   
+
+    ***
+    Ainda preciso escrever mais.
+***
+Podem me encontra no 
+![Instagram](instagram.com/brenojbs) 
