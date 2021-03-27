@@ -4,16 +4,17 @@
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
         text-align: justify;
-        
+        /*background-image: linear-gradient(bottom #242B40,#141A26,#566073,#AAB1BF,#0D0D0D)*/
+                
     }
 
     h1 {
         text-align: left;
-
+        
     }
 
     h1#h11{
-        color: rgb(2, 76, 160);
+        color: #cd3737;
         padding-inline-start: 35% ;
         font-size: 45px;
         
@@ -25,7 +26,7 @@
 
 
     h2{
-        color: white;
+        color: #cd3737;
         font-size: 35px;
         margin: 2mm;
     }
