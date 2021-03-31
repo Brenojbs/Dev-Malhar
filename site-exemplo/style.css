@@ -1,11 +1,21 @@
 @charset "UTF-8";
     body{
-        background-color: #020202d2;
+        background-image: linear-gradient(to right, rgb(36, 43, 64), rgb(20, 26, 38));
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
         text-align: justify;
-        /*background-image: linear-gradient(bottom #242B40,#141A26,#566073,#AAB1BF,#0D0D0D)*/
+       
                 
+    }
+
+    main{
+       margin-left: 15%;
+       margin-right: 15%;
+       background-color: white;
+       border-radius: 10px;
+       padding: 10px;
+       
+      
     }
 
     h1 {
@@ -18,9 +28,14 @@
         padding-inline-start: 35% ;
         font-size: 45px;
         
+        
     }
     h1#h10{
         padding-inline-start: 12mm;
+        font-size: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(14, 116, 233);
+        text-shadow: 1px 1px 4px rgb(14, 116, 233);
         
     }
 
@@ -33,7 +48,7 @@
 
 
     p{
-        color: white;
+        color: rgb(5, 5, 5);
         font-size: 25px;
     }
 
@@ -43,36 +58,33 @@
     }
     
     blockquote{
-        color: rgb(235, 12, 12);
+        color: rgb(205, 55, 55);
         font-size: 30px;
         padding-top: 50px;
+        font-style: italic;
     }
     
+
     
     input{
-        width: 110px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        width: 17%;
         color: brown;
-        font-size: 18px;
+        font-size: 100%;
         cursor: pointer;
         margin: 2mm;
         
-    }
-        
-    
+    }    
+
    
-    img#imglogo{
-        border-radius: 100mm;
-        padding-inline-start: 3mm;
-        padding-block-start: 3mm;
-    }
-
-
     div#menu{
-        border-style: inset;
+        margin-left: 1%;
         padding-block-end: 1mm;
         padding-block-start: 1mm;
-        background-color: white;
-        width: 40%;
+        border-radius: 15px;
+        background-color: rgba(2, 53, 77, 0.322);
+        width: 100%;
+        
     }
 
 
@@ -81,25 +93,36 @@
     
     }
     
+
+    img#imglogo{
+        border-radius: 100mm;
+        padding-inline-start: 3mm;
+        padding-block-start: 3mm;
+        
+    }
+
     
     img#img1{
         float: left;
+        max-width: 390px;
+        min-width: 200px;
+        height: 350px;
         border-radius: 30px;
         padding-right: 10px;
     }
+
+
     img#cerebro{
         float: left;
-        padding-left: 5px;
+        width: 380px;
+        height: 200px;
+        padding-left: 1px;
         padding-right: 10px;
+        border-radius: 10px;
         
     }
     
     
-    img#fundo{
-
-        
-    }
-
     footer{
         color: grey;
     }
